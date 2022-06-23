@@ -1,3 +1,6 @@
+
+<img width="773" alt="Capture2" src="react-weather.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
